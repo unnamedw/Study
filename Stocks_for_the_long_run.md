@@ -5,7 +5,7 @@
 ### Chapter 1. 주식이 가장 강력한 자산인 이유
 - 분석 기간: 1802년부터 2012년까지, 약 210년의 금융 데이터 기반
 - 연평균 실질 수익률:
-- ![자산별실질수익률그래프](https://github.com/user-attachments/assets/01d1cba0-ecb1-439a-bd54-e56c73e1f633){: width="50%" height="50%"}
+- ![자산별실질수익률그래프](https://github.com/user-attachments/assets/01d1cba0-ecb1-439a-bd54-e56c73e1f633){: width="20%" height="20%"}
   - 주식: **6.6%**
   - 장기 국채: **3.6%**
   - 금: **0.6%**, 현금(단기채): **0.4%**
