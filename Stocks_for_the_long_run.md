@@ -1,5 +1,3 @@
-[제레미 시겔 - "주식에 장기투자하라 (Stocks for the Long Run)"]
-
 ## Part I. 주식의 장기 수익률
 
 ### Chapter 1. 주식이 가장 강력한 자산인 이유
