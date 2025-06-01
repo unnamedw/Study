@@ -34,9 +34,10 @@
   - 세계 증시 동반 급락, S&P500 약 50% 하락
     (상당수가 보통 5년, 10년 정도의 단기 데이터를 바탕으로 투자 결정을 내리는 경우가 많은데, 반드시 그 이상의 장기 데이터를 참고해야 한다고 생각)
     
-<img width="300" alt="통화량추이" src="https://github.com/user-attachments/assets/7ea2c1af-e430-445f-b377-5f9f15b7d2b2" />
+
 - 정책 대응:
   - 연준: 기준금리 대폭 인하 (4% 후반 -> 제로금리 수준), 양적완화(QE) 1~3차례 단행
+  - <img width="500" alt="통화량추이" src="https://github.com/user-attachments/assets/7ea2c1af-e430-445f-b377-5f9f15b7d2b2" />
   - 재무부: TARP(부실자산매입프로그램) 시행
   - 글로벌 중앙은행 협조 통한 유동성 공급
 
